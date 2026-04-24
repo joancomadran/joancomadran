@@ -1,76 +1,87 @@
-# 👋 Hi, I'm Joan Comadran
+# Hi, I'm Joan 👋
 
-**Full Stack Developer** | **System Architect** | **Marketing Engineer**
+Full Stack Developer · Digital Marketing Strategist · SaaS Builder
 
-I build scalable, high-performance digital systems — from frontend interfaces to backend automation and analytics.  
-My focus: **clean architecture, fast execution, and measurable business impact.**  
-Currently building at **[ADAUGE](https://adauge.com)** — a 360° digital agency specialized in web development, marketing, and audiovisual production.
+I'm an industrial engineer who ended up writing code. Now I build web systems, run ad campaigns, and ship SaaS products, sometimes all in the same day.
 
----
-
-## 🧠 About Me
-- 🧩 Expert in **end-to-end web systems** — from UX to infrastructure  
-- ⚙️ Strong background in **WordPress engineering** and **custom SaaS development**  
-- 🎯 Bridging the gap between **software, automation, and digital growth**  
-- 🧠 Experienced in **data-driven marketing** and **conversion architecture**  
-- 🌍 Based in **Barcelona**  
-- 💡 Always learning, improving, and building new tools  
+Currently at **[ADAUGE](https://adauge.com)**, a digital agency in Barcelona where I handle everything from WordPress builds to AI-powered full stack projects.
 
 ---
 
-## 🧰 Tech Expertise
+## What I do
 
-| Area | Key Technologies | Focus |
-|------|------------------|--------|
-| **Frontend Engineering** | React • Next.js • TypeScript • TailwindCSS | Modern UI architecture, performance, DX |
-| **Backend & APIs** | Node.js • PHP • Supabase • MySQL • REST • Serverless | Scalable backends, data modeling, automation |
-| **CMS & Low-Code Systems** | WordPress (custom themes/plugins) • Elementor • Webflow • Framer | High-performance marketing websites |
-| **Automation & Integration** | Make (Integromat) • Zapier • Apps Script | Connecting tools, streamlining workflows |
-| **Data & Analytics** | GA4 • Tag Manager • Looker Studio • SEO Technical | Insight-driven optimization |
-| **DevOps & Tools** | Vercel • GitHub • Figma • Cursor • Notion | Deployment, collaboration, system design |
+- Build and ship web products from scratch, frontend to backend, for startups and large companies alike.
+- Custom WordPress engineering (not just themes — real plugins, real systems)
+- Google Ads & Meta Ads with proper tracking. No vanity metrics.
+- Developing **[Adorea.ai](https://adorea.ai)** solo — an AI marketing SaaS inside ADAUGE
+- I make AI-generated films. They've been screened in actual cinemas.
 
 ---
 
-## 🚀 Featured Projects
+## Stack
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| [Finance OS](#) | Personal finance dashboard for tracking expenses and investments | Next.js, Supabase |
-| [Adauge Engine](#) | Full-stack boilerplate optimized for performance and scalability | Next.js, TypeScript |
-| [League of Legends Statistics](#) | Real-time analytics dashboard for game performance | React, Supabase |
-| [Elementor Webhook_AppsScript](#) | Google Apps Script connector for Elementor native forms | JS, Apps Script |
+| Area | Technologies |
+|------|-------------|
+| **Frontend** | React · Next.js · TypeScript · TailwindCSS |
+| **Backend & APIs** | Node.js · PHP · Supabase · MySQL · REST · Serverless |
+| **CMS** | WordPress · Elementor · WooCommerce |
+| **Automation** | Make · Zapier · Apps Script · n8n |
+| **Analytics & Ads** | GA4 · GTM · Looker Studio · Google Ads · Meta Ads |
+| **Tooling** | Vercel · GitHub · Figma · Cursor · Claude Code |
+| **AI** | OpenAI API · Anthropic API · MCP · Ollama |
 
 ---
 
-## 📈 GitHub Stats
+## Projects
+
+| Project | What it is |
+|---------|-----------|
+| **[Adorea.ai](https://adorea.ai)** | AI marketing SaaS — SEO, product images, editorial calendar, WordPress/Shopify integrations |
+| **[Classtory.es](https://classtory.es)** | AI story generator for teachers. Built it, teachers use it. |
+| **[IMPERIVM](https://imperivm.app)** | All-in-one life OS — finances, health, documents. Everything in one place. |
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joancomadran&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joancomadran&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joancomadran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joancomadran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joancomadran&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <i>Client and agency work is tracked separately at <a href="https://github.com/Joan-adauge">@Joan-adauge</a></i>
 </p>
 
 ---
 
-## 🧩 Work & Collaboration
-I enjoy working on:
-- Full Stack web applications  
-- Custom WordPress and marketing systems  
-- Automation and data integration projects  
-- SaaS product development  
+## Let's build something
+
+I'm open to collaborate on full stack projects, WordPress systems, automation, SaaS, or anything that's genuinely interesting to build.
 
 ---
 
-## 📫 Contact
+## Contact
 
-📧 **Email:** [joan.comadran2@gmail.com](mailto:joan.comadran2@gmail.com)  
-🌐 **Website:** [https://coma.dev](https://coma.dev)  
-🐦 **X (Twitter):** [@dev_coma](https://x.com/dev_coma)  
-💼 **LinkedIn:** [Joan Comadran](https://linkedin.com/in/joancomadran)
+- 📧 [joan.comadran2@gmail.com](mailto:joan.comadran2@gmail.com)
+- 🌐 [coma.dev](https://coma.dev)
+- 🐦 [@dev_coma](https://x.com/dev_coma)
+- 💼 [LinkedIn](https://linkedin.com/in/joancomadran)
+- 🏢 [adauge.com](https://adauge.com)
 
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Clean-000000?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Focus-Execution-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Barcelona-333333?style=for-the-badge&logo=pinboard" />
+  <img src="https://img.shields.io/badge/Stack-Full%20Stack%20%2B%20AI-6C47FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Barcelona-E63946?style=for-the-badge&logo=pinboard" />
+</p>
+
+<p align="center">
+  <i>Building systems that ship. Measuring what matters.</i>
 </p>
