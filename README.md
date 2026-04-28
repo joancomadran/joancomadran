@@ -44,21 +44,6 @@ If it needs to get done, it gets done.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joancomadran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joancomadran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joancomadran&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-<p align="center">
-  <i>Client and agency work is tracked separately at <a href="https://github.com/ADAUGE-SL">@ADAUGE-SL</a></i>
-</p>
-
----
-
 ## Let's build something
 
 I'm open to collaborating on full stack projects, WordPress systems, automation, SaaS, or anything that's genuinely interesting to build.
