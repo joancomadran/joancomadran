@@ -1,8 +1,7 @@
 # Hi, I'm Joan 👋
-
 Full Stack Developer · Digital Marketing Strategist · SaaS Builder
 
-I'm an industrial engineer who ended up writing code. Now I build web systems, run ad campaigns, and ship SaaS products, sometimes all in the same day.
+I'm an industrial engineer who ended up writing code. Now I build web systems, run ad campaigns, and ship SaaS products. Sometimes all in the same day.
 
 Currently at **[ADAUGE](https://adauge.com)**, a digital agency in Barcelona where I handle everything from WordPress builds to AI-powered full stack projects.
 
@@ -10,11 +9,13 @@ Currently at **[ADAUGE](https://adauge.com)**, a digital agency in Barcelona whe
 
 ## What I do
 
-- Build and ship web products from scratch, frontend to backend, for startups and large companies alike.
-- Custom WordPress engineering (not just themes — real plugins, real systems)
-- Google Ads & Meta Ads with proper tracking. No vanity metrics.
-- Developing **[Adorea.ai](https://adorea.ai)** solo — an AI marketing SaaS inside ADAUGE
-- I make AI-generated films. They've been screened in actual cinemas.
+- Build and ship web products from scratch, frontend to backend, for startups and large companies alike
+- Custom WordPress engineering (themes and custom plugins)
+- Google Ads & Meta Ads with proper tracking.
+- Developing **[Adorea.ai](https://adorea.ai)**, an AI marketing SaaS inside ADAUGE
+- I also make AI-generated films. They've been screened in actual cinemas.
+
+If it needs to get done, it gets done.
 
 ---
 
@@ -22,9 +23,10 @@ Currently at **[ADAUGE](https://adauge.com)**, a digital agency in Barcelona whe
 
 | Area | Technologies |
 |------|-------------|
-| **Frontend** | React · Next.js · TypeScript · TailwindCSS |
+| **Frontend** | React · Next.js · TypeScript · TailwindCSS · shadcn/ui · Framer Motion |
 | **Backend & APIs** | Node.js · PHP · Supabase · MySQL · REST · Serverless |
-| **CMS** | WordPress · Elementor · WooCommerce |
+| **CMS & Commerce** | WordPress · Elementor · WooCommerce · Shopify |
+| **No-code & Web** | Webflow · Framer |
 | **Automation** | Make · Zapier · Apps Script · n8n |
 | **Analytics & Ads** | GA4 · GTM · Looker Studio · Google Ads · Meta Ads |
 | **Tooling** | Vercel · GitHub · Figma · Cursor · Claude Code |
@@ -36,7 +38,7 @@ Currently at **[ADAUGE](https://adauge.com)**, a digital agency in Barcelona whe
 
 | Project | What it is |
 |---------|-----------|
-| **[Adorea.ai](https://adorea.ai)** | AI marketing SaaS — SEO, product images, editorial calendar, WordPress/Shopify integrations |
+| **[Adorea.ai](https://adorea.ai)** | AI marketing SaaS: SEO, product images, editorial calendar, WordPress/Shopify integrations |
 | **[Classtory.es](https://classtory.es)** | AI story generator for teachers. Built it, teachers use it. |
 | **[IMPERIVM](https://imperivm.app)** | All-in-one life OS — finances, health, documents. Everything in one place. |
 
@@ -48,20 +50,18 @@ Currently at **[ADAUGE](https://adauge.com)**, a digital agency in Barcelona whe
   <img src="https://github-readme-stats.vercel.app/api?username=joancomadran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joancomadran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joancomadran&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
 <p align="center">
-  <i>Client and agency work is tracked separately at <a href="https://github.com/Joan-adauge">@Joan-adauge</a></i>
+  <i>Client and agency work is tracked separately at <a href="https://github.com/ADAUGE-SL">@ADAUGE-SL</a></i>
 </p>
 
 ---
 
 ## Let's build something
 
-I'm open to collaborate on full stack projects, WordPress systems, automation, SaaS, or anything that's genuinely interesting to build.
+I'm open to collaborating on full stack projects, WordPress systems, automation, SaaS, or anything that's genuinely interesting to build.
 
 ---
 
@@ -83,5 +83,5 @@ I'm open to collaborate on full stack projects, WordPress systems, automation, S
 </p>
 
 <p align="center">
-  <i>Building systems that ship. Measuring what matters.</i>
+  <i>Whatever the project needs, I make it work.</i>
 </p>
