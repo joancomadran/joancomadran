@@ -1,5 +1,5 @@
 # Hi, I'm Joan 👋
-Full Stack Developer · Digital Marketing Strategist · SaaS Builder
+Full Stack Developer · Digital Marketing Strategist
 
 I'm an industrial engineer who ended up writing code. Now I build web systems, run ad campaigns, and ship SaaS products. Sometimes all in the same day.
 
