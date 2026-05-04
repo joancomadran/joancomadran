@@ -1,7 +1,7 @@
 # Hi, I'm Joan 👋
 Full Stack Developer · Digital Marketing Strategist
 
-I'm an industrial engineer who ended up writing code. Now I build web systems, run ad campaigns, and ship SaaS products. Sometimes all in the same day.
+I build end-to-end web systems, run ad campaigns, and ship whatever the client can imagine. Sometimes all in the same day.
 
 Currently at **[ADAUGE](https://adauge.com)**, a digital agency in Barcelona where I handle everything from WordPress builds to AI-powered full stack projects.
 
