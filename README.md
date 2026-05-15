@@ -53,10 +53,7 @@ I'm open to collaborating on full stack projects, WordPress systems, automation,
 ## Contact
 
 - 📧 [joan.comadran2@gmail.com](mailto:joan.comadran2@gmail.com)
-- 🌐 [coma.dev](https://coma.dev)
-- 🐦 [@dev_coma](https://x.com/dev_coma)
 - 💼 [LinkedIn](https://linkedin.com/in/joancomadran)
-- 🏢 [adauge.com](https://adauge.com)
 
 ---
 
