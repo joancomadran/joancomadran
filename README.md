@@ -20,6 +20,7 @@ I build websites about 10x faster with AI, plus apps and AI tools and agents for
 
 | Project | What it is |
 |---------|-----------|
+| **[Lightframes](https://www.lightframes.si)** | Free, open-source photo editor that runs entirely in the browser: RAW support, presets, copy/paste edits and on-device AI (masks, object and background removal, upscaling). Your photos never leave your device. [Code](https://github.com/joancomadran/lightframes) |
 | **[adorea.ai](https://adorea.ai)** | AI marketing SaaS at ADAUGE: SEO, product images, editorial calendar, WordPress/Shopify integrations. |
 | **[Claient](https://www.joancomadran.dev/projects/claient)** | AI WhatsApp client agent built with Claude. |
 | **[Classtory](https://www.joancomadran.dev/projects/classtory-es)** | AI content tool for teachers to present class projects. |
@@ -30,9 +31,9 @@ More case studies at [joancomadran.dev/projects](https://www.joancomadran.dev/pr
 
 ## Stack
 
-**Frontend** Next.js · React · TypeScript · Tailwind · shadcn/ui
+**Frontend** Next.js · Astro · React · TypeScript · Tailwind · shadcn/ui
 **Backend** Supabase · Payload · Node.js · PHP · MySQL
-**AI** OpenAI API · Anthropic API · MCP · Claude Code · Cursor · Ollama
+**AI** OpenAI API · Anthropic API · ONNX Runtime Web · MCP · Claude Code · Cursor · Ollama
 **Ads & analytics** Google Ads · Meta Ads · GA4 · GTM
 **Infra** Vercel · GitHub · self-hosted NAS
 
